@@ -1,11 +1,11 @@
 # Basic Machine Learning Algorithms Implementation
 This project aims to personal re-implementation some basic machine learning algorithms like: Linear Regression, KMeans Clustering...
 
-## Prequisition
+# Prequisition
 To make sure all of this project's code works, please spend a minute installing some libraries according to the requirements.txt file. 
 Just run "pip install -r requirements.txt" after activating your Python Virtualenv.
 
-## K Means Clustering
+# K Means Clustering
 ## Implementation and Visualize the points with Pygame
 "python/python3 KMeans_Clustering/pygame_beginer.py"
 ## Compress Image
